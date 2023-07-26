@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "mage2tv/magento-cache-clean": "^1.0"
+    }
+}

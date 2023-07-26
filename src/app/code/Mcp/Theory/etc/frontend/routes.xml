@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+  ~ @author <Yoan And Bertrand> yoan.matchrpro@gmail.com
+  ~ @copyright Copyright (c) 2023  Materiel-chr-pro (https://materiel-chr-pro.com)
+  ~
+  -->
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
+    <router id="standard">
+        <route id="theory" frontName="demo-controller">
+            <module name="Mcp_Theory"/>
+        </route>
+    </router>
+</config>
