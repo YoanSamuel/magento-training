@@ -655,6 +655,13 @@
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/webonyx/graphql-php" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/weew/helpers-array" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/wikimedia/less.php" />
+      <excludeFolder url="file://$MODULE_DIR$/src/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/src/dev" />
+      <excludeFolder url="file://$MODULE_DIR$/src/pub" />
+      <excludeFolder url="file://$MODULE_DIR$/src/setup" />
+      <excludeFolder url="file://$MODULE_DIR$/src/var/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/src/var/log" />
+      <excludeFolder url="file://$MODULE_DIR$/src/var/page_cache" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

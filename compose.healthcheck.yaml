@@ -58,4 +58,4 @@ services:
 
   mailhog:
     healthcheck:
-      test: 'wget --no-verbose --tries=1 --spider 127.0.0.1:1080 || exit 1'
+      test: 'wget --no-verbose --tries=1 --spider 127.0.0.1:8025 || exit 1'

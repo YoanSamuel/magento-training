@@ -11,7 +11,7 @@
       xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <body>
         <referenceContainer name="content">
-            <block class="Mcp\Theory\Block\MyBlock" name="theory.my.block1" template="Mcp_Theory::my_template.phtml" />
+            <block class="Mcp\Practice\Block\Topsell" name="practice.topsell" template="Mcp_Practice::top_sell.phtml" />
         </referenceContainer>
     </body>
 </page>
